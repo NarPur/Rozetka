@@ -1,0 +1,602 @@
+.september {
+    margin-left: 330px;
+    margin-top: -8px;
+}
+
+#square {
+    margin-left: -8px;
+    margin-top: -34px;
+    height: 30px;
+    width: 340px;
+    background-color: rgb(205, 18, 247);
+}
+
+#square2 {
+    margin-left: 1190px;
+    margin-top: -34px;
+    height: 34px;
+    width: 338px;
+    background-color: rgb(205, 18, 247);
+}
+
+#square3 {
+    margin-left: -8px;
+    padding-top: 5px;
+    height: 54px;
+    width: 1536px;
+    background-color: black;
+}
+
+#input {
+    position: absolute;
+    margin-left: 480px;
+    margin-top: -50px;
+    width: 430px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.input {
+    border-style: none;
+}
+
+.inputbutton {
+    border-style: none;
+    position: absolute;
+    border-color: white;
+    background-color: white;
+    margin-left: 425px;
+    margin-top: -48px;
+    width: 60px;
+    height: 42px;
+}
+
+.inputbutton2 {
+    border-style: none;
+    position: absolute;
+    border-color: white;
+    background-color: white;
+    margin-left: 915px;
+    margin-top: -48px;
+    width: 60px;
+    height: 42px;
+}
+
+.inputbutton3 {
+    border-style: none;
+    position: absolute;
+    border-color: green;
+    background-color: green;
+    margin-left: 975px;
+    margin-top: -48px;
+    width: 60px;
+    height: 42px;
+}
+
+.search {
+    position: absolute;
+    margin-left: 430px;
+    margin-top: -40px;
+}
+
+.micro {
+    position: absolute;
+    margin-left: 940px;
+    margin-top: -145px;
+}
+
+.logo {
+    margin-top: -150px;
+    margin-left: 50px;
+}
+
+.search2 {
+    position: absolute;
+    margin-top: -138px;
+    margin-left: 983px;
+    color: white;
+}
+
+.hamburger {
+    position: absolute;
+    margin-top: -145px;
+}
+
+.buttonsquare {
+    border-color: grey;
+    background-color: grey;
+    color: white;
+    position: absolute;
+    margin-left: 320px;
+    margin-top: -150px;
+    width: 95px;
+    height: 40px;
+}
+
+.square {
+    position: absolute;
+    margin-left: 320px;
+    margin-top: -150px;
+}
+
+.ukraine {
+    margin-left: 1090px;
+    margin-top: -140px;
+    border-radius: 15px;
+}
+
+.ua {
+    position: absolute;
+    color: white;
+    margin-left: 1150px;
+    margin-top: -25px
+}
+
+.govno {
+    position: absolute;
+    color: white;
+    margin-left: 1200px;
+    margin-top: -25px;
+}
+
+.bealive {
+    margin-left: 1250px;
+    margin-top: -35px;
+}
+
+.human {
+    margin-left: 1390px;
+    margin-top: -45px;
+}
+
+.shop {
+    position: absolute;
+    margin-left: 1450px;
+    margin-top: -56px;
+}
+
+.laptoptext {
+    margin-left: 50px;
+    margin-top: -25px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.laptoptext:hover {
+    color: red;
+}
+
+.smartphone {
+    margin-top: 15px;
+    margin-left: -5px;
+
+}
+
+.smartphonetext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.smartphonetext:hover {
+    color: red;
+}
+
+.gamepad {
+    margin-top: 30px;
+    margin-left: -5px;
+
+}
+
+.gamepadtext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.gamepadtext:hover {
+    color: red;
+}
+
+.vending {
+    margin-top: 30px;
+    margin-left: -5px;
+
+}
+
+.vendingtext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.vendingtext:hover {
+    color: red;
+}
+
+.home {
+    margin-top: 30px;
+    margin-left: -5px;
+}
+
+.hometext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.hometext:hover {
+    color: red;
+}
+
+.drill {
+    margin-top: 30px;
+    margin-left: -5px;
+}
+
+.drilltext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.drilltext:hover {
+    color: red;
+}
+
+.bath {
+    margin-top: 30px;
+    margin-left: -5px;
+}
+
+.bathtext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.bathtext:hover {
+    color: red;
+}
+
+.school {
+    margin-left: 450px;
+    margin-top: -150px;
+}
+
+.shovel {
+    margin-top: -210px;
+    margin-left: -5px;
+}
+
+.shoveltext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.shoveltext:hover {
+    color: red;
+}
+
+.tennis {
+    margin-top: 30px;
+    margin-left: -5px;
+}
+
+.tennistext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.tennistext:hover {
+    color: red;
+}
+
+.clothing {
+    margin-top: 30px;
+    margin-left: -5px;
+}
+
+.clothingtext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.clothingtext:hover {
+    color: red;
+}
+
+.beauty {
+    margin-top: 30px;
+    margin-left: -5px;
+}
+
+.beautytext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.beautytext:hover {
+    color: red;
+}
+
+.kid {
+    margin-top: 30px;
+    margin-left: -5px;
+}
+
+.kidtext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.kidtext:hover {
+    color: red;
+}
+
+.dog {
+    margin-top: 30px;
+    margin-left: -5px;
+}
+
+.dogtext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.dogtext:hover {
+    color: red;
+}
+
+.yes {
+    margin-top: 550px;
+    margin-left: -5px;
+}
+
+.yestext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.yestext:hover {
+    color: red;
+}
+
+.line {
+    transform: rotate(-90deg);
+    margin-left: -700px;
+    margin-top: -520px;
+}
+
+.drink {
+    margin-top: 45px;
+    margin-left: -5px;
+}
+
+.drinktext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.drinktext:hover {
+    color: red;
+}
+
+.business {
+    margin-top: 45px;
+    margin-left: -5px;
+}
+
+.businesstext {
+    margin-left: 50px;
+    margin-top: -42px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.businesstext:hover {
+    color: red;
+}
+
+.sale {
+    margin-top: 45px;
+    margin-left: -5px;
+}
+
+.saletext {
+    margin-left: 50px;
+    margin-top: -20px;
+    text-decoration: underline;
+    color: rgb(49, 127, 228);
+}
+
+.sale2 {
+    margin-left: 230px;
+    margin-top: -45px;
+}
+
+.saletext:hover {
+    color: red;
+}
+
+.kozak {
+    margin-left: 500px;
+    margin-top: 81px;
+}
+
+.kozaktext {
+    margin-left: 410px;
+    margin-top: -8px;
+    border: 1px solid transparent;
+}
+
+.kozaktext2 {
+    margin-left: 410px;
+}
+
+.kozaksale {
+    color: grey;
+    text-decoration: line-through;
+    margin-left: 410px;
+    font-size: 22px;
+}
+
+.kozaksale2 {
+    color: orangered;
+    margin-left: 410px;
+    font-size: 22px;
+}
+
+.axe {
+    margin-left: 800px;
+    margin-top: -250px;
+}
+
+.axetext {
+    margin-left: 750px;
+    margin-top: -8px;
+    border: 1px solid transparent;
+}
+
+.axesale {
+    color: grey;
+    text-decoration: line-through;
+    margin-left: 750px;
+    font-size: 22px;
+}
+
+.axesale2 {
+    color: orangered;
+    margin-left: 750px;
+    font-size: 22px;
+}
+
+.line2 {
+    margin-top: 165px;
+    margin-left: 600px;
+    transform: rotate(90deg);
+}
+
+.line3 {
+    margin-top: -330px;
+    margin-left: 1224px;
+    transform: rotate(90deg);
+}
+
+.line4 {
+    transform: rotate(90deg);
+    margin-top: 588px;
+}
+
+.line5 {
+    margin-top:-480px;
+    margin-left:405px;
+}
+
+.knife {
+    margin-left: 1110px;
+    margin-top: -260px;
+}
+
+.knifetext {
+    margin-left: 1050px;
+    margin-top: -8px;
+}
+
+.knifesale {
+    margin-left: 1050px;
+    font-size: 20px;
+    color: black;
+}
+
+.saletext2 {
+    margin-top:-500px;
+    margin-left:450px;
+}
+
+.heart1 {
+    margin-left:650px;
+    margin-top:200px;
+}
+
+.heart2 {
+    margin-left:970px;
+    margin-top:-30px;
+}
+
+.heart3 {
+    margin-left:1300px;
+    margin-top:-30px;
+}
+
+.border {
+    margin-left:1300px;
+    margin-top:-270px;
+}
+
+.saletext3 {
+    color:rgb(49, 127, 228);
+    margin-left:1330px;
+    font-size:20px;
+    margin-top:-95px;
+}
+
+.saletext4 {
+    color:grey;
+    margin-left:1430px;
+    font-size:20px;
+    margin-top:-20px;
+}
+
+.line6 {
+    margin-top: 258px;
+    margin-left: 0px;
+}
+
+.line7 {
+    margin-top: -120px;
+    margin-left:0px;
+}
+
+.question {
+    margin-top: 26px;
+}
+
+.questiontext {
+    margin-top: -26px;
+    margin-left: 50px;
+    color: rgb(49, 127, 228);
+}
+
+.arrow {
+    margin-left:450px;
+    margin-top:-600px;
+}
+
+.arrow2 {
+    margin-left: 610px;
+    margin-top: -55px;
+    transform:rotate(180deg);
+}
