@@ -152,7 +152,7 @@
 .shop {
     position: absolute;
     margin-left: 1450px;
-    margin-top: -56px;
+    margin-top: -26px;
 }
 
 .laptoptext {
@@ -351,7 +351,7 @@
 }
 
 .dog {
-    margin-top: 30px;
+    margin-top: 50px;
     margin-left: -5px;
 }
 
@@ -367,7 +367,7 @@
 }
 
 .yes {
-    margin-top: 550px;
+    margin-top: 345px;
     margin-left: -5px;
 }
 
@@ -385,7 +385,7 @@
 .line {
     transform: rotate(-90deg);
     margin-left: -700px;
-    margin-top: -520px;
+    margin-top: -305px;
 }
 
 .drink {
@@ -421,7 +421,7 @@
 }
 
 .sale {
-    margin-top: 45px;
+    margin-top: 40px;
     margin-left: -5px;
 }
 
@@ -443,7 +443,7 @@
 
 .kozak {
     margin-left: 500px;
-    margin-top: 81px;
+    margin-top: 1px;
 }
 
 .kozaktext {
@@ -511,8 +511,8 @@
 }
 
 .line5 {
-    margin-top:-480px;
-    margin-left:405px;
+    margin-top: -480px;
+    margin-left: 405px;
 }
 
 .knife {
@@ -532,56 +532,56 @@
 }
 
 .saletext2 {
-    margin-top:-500px;
-    margin-left:450px;
+    margin-top: -500px;
+    margin-left: 450px;
 }
 
 .heart1 {
-    margin-left:650px;
-    margin-top:200px;
+    margin-left: 650px;
+    margin-top: 200px;
 }
 
 .heart2 {
-    margin-left:970px;
-    margin-top:-30px;
+    margin-left: 970px;
+    margin-top: -30px;
 }
 
 .heart3 {
-    margin-left:1300px;
-    margin-top:-30px;
+    margin-left: 1300px;
+    margin-top: -30px;
 }
 
 .border {
-    margin-left:1300px;
-    margin-top:-270px;
+    margin-left: 1300px;
+    margin-top: -270px;
 }
 
 .saletext3 {
-    color:rgb(49, 127, 228);
-    margin-left:1330px;
-    font-size:20px;
-    margin-top:-95px;
+    color: rgb(49, 127, 228);
+    margin-left: 1330px;
+    font-size: 20px;
+    margin-top: -95px;
 }
 
 .saletext4 {
-    color:grey;
-    margin-left:1430px;
-    font-size:20px;
-    margin-top:-20px;
+    color: grey;
+    margin-left: 1430px;
+    font-size: 20px;
+    margin-top: -20px;
 }
 
 .line6 {
-    margin-top: 258px;
+    margin-top: 358px;
     margin-left: 0px;
 }
 
 .line7 {
-    margin-top: -120px;
-    margin-left:0px;
+    margin-top: -155px;
+    margin-left: 0px;
 }
 
 .question {
-    margin-top: 26px;
+    margin-top: 6px;
 }
 
 .questiontext {
@@ -591,12 +591,282 @@
 }
 
 .arrow {
-    margin-left:450px;
-    margin-top:-600px;
+    margin-left: 450px;
+    margin-top: -600px;
 }
 
 .arrow2 {
     margin-left: 610px;
     margin-top: -55px;
-    transform:rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.line8 {
+    margin-top: 1150px;
+    margin-left: 1224px;
+    transform: rotate(90deg);
+}
+
+.line9 {
+    transform: rotate(90deg);
+    margin-top: 588px;
+}
+
+.line10 {
+    margin-top: -480px;
+    margin-left: 405px;
+}
+
+.line11 {
+    margin-top: 150px;
+    margin-left: 600px;
+    transform: rotate(90deg);
+}
+
+.rozetka {
+    margin-left: 780px;
+    margin-top: -430px;
+}
+
+.rozetkatext {
+    margin-left: 750px;
+    margin-top: -8px;
+    border: 1px solid transparent;
+}
+
+.rozetkasale {
+    color: grey;
+    text-decoration: line-through;
+    margin-left: 750px;
+    font-size: 22px;
+}
+
+.rozetkasale2 {
+    color: orangered;
+    margin-left: 750px;
+    font-size: 22px;
+}
+
+.pillow {
+    margin-left: 1075px;
+    margin-top: -240px;
+}
+
+.pillowtext {
+    margin-left: 1050px;
+    margin-top: -8px;
+}
+
+.pillowsale {
+    margin-left: 1050px;
+    font-size: 20px;
+    color: black;
+}
+
+.skalka {
+    margin-left: 445px;
+    margin-top: -215px;
+}
+
+.skalkatext {
+    margin-left: 430px;
+    margin-top: -8px;
+    border: 1px solid transparent;
+}
+
+.skalkasale {
+    color: grey;
+    text-decoration: line-through;
+    margin-left: 450px;
+    font-size: 22px;
+}
+
+.skalkasale2 {
+    color: orangered;
+    margin-left: 450px;
+    font-size: 22px;
+}
+
+.linea1 {
+    margin-top: -730px;
+    margin-left: 0px;
+}
+
+.connect {
+    margin-top: 2px;
+}
+
+.connectext {
+    margin-top: -26px;
+    margin-left: 50px;
+    color: rgb(49, 127, 228);
+}
+
+.linea2 {
+    margin-top: 72px;
+    margin-left: 0px;
+}
+
+.rozatka {
+    margin-top:-55px;
+}
+
+.rozatkatext {
+    margin-top: -30px;
+    margin-left: 50px;
+    color: rgb(49, 127, 228);
+}
+
+.salea {
+    margin-left:450px;
+    margin-top:150px;
+}
+
+.linee1 {
+    margin-top: 950px;
+    margin-left: 1224px;
+    transform: rotate(90deg);
+}
+
+.linee2 {
+    transform: rotate(90deg);
+    margin-top: 588px;
+}
+
+.linee3 {
+    margin-top: -480px;
+    margin-left: 405px;
+}
+
+.linee4 {
+    margin-top: 150px;
+    margin-left: 600px;
+    transform: rotate(90deg);
+}
+
+.pc {
+    margin-left: 500px;
+    margin-top: -490px;
+}
+
+.pctext {
+    margin-left: 410px;
+    margin-top: -8px;
+    border: 1px solid transparent;
+}
+
+.pcsale {
+    color: grey;
+    text-decoration: line-through;
+    margin-left: 410px;
+    font-size: 22px;
+}
+
+.pcsale2 {
+    color: orangered;
+    margin-left: 410px;
+    font-size: 22px;
+}
+
+.laptopa {
+    margin-left: 780px;
+    margin-top: -250px;
+}
+
+.laptopatext {
+    margin-left: 750px;
+    margin-top: -8px;
+    border: 1px solid transparent;
+}
+
+.laptopasale {
+    color: grey;
+    text-decoration: line-through;
+    margin-left: 750px;
+    font-size: 22px;
+}
+
+.laptopasale2 {
+    color: orangered;
+    margin-left: 750px;
+    font-size: 22px;
+}
+
+.display {
+    margin-left: 1075px;
+    margin-top: -240px;
+}
+
+.displaytext {
+    margin-left: 1050px;
+    margin-top: -8px;
+}
+
+.displaysale {
+    margin-left: 1050px;
+    font-size: 20px;
+    color: black;
+}
+
+.electronic {
+    margin-left:450px;
+    margin-top:-610px;
+}
+
+.greybox {
+    margin-top: -650px;
+    margin-left: -41px;
+}
+
+.greytext {
+    margin-left: 100px;
+    margin-top: -135px;
+    font-size:25px;
+    color:white;
+    position:absolute;
+}
+
+.greytext2 {
+    margin-left: 45px;
+    margin-top: -105px;
+    color:white;
+    position:absolute;
+}
+
+.greytext3 {
+    margin-left: 85px;
+    margin-top: -87px;
+    color:white;
+    position:absolute;
+}
+
+.greybutton {
+    margin-left: 85px;
+    margin-top: -69px;
+    width:200px;
+    height:40px;
+    background-color:rgb(26, 26, 142);
+    border-color:rgb(26, 26, 142);
+    color:white;
+    position:absolute;
+}
+
+.download {
+    margin-left:15px;
+}
+
+.appstore {
+    margin-left:190px;
+    margin-top:-84px;
+}
+
+.lineo {
+    transform:rotate(90deg);
+    margin-left:-690px;
+    margin-top:1038px;
+}
+
+.social {
+    margin-top:-1000px;
+    visibility:hidden;
 }
